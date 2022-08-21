@@ -47,4 +47,5 @@ end
 7. To terminate the entire program, press X in the GUI window
 icon
 
+
 © 2022 Nicolas Louis, Multi Media Final Project
