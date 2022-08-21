@@ -34,7 +34,7 @@ Please try running it on pycharm because
 spyder can sometimes generate undefined errors
 
 
-## Installation 
+## Installation and run
 1. Import the py file from the IDE
 2. Make sure to do the installation prerequisites
 3. Run the program from the IDE (sometimes loading is a bit slow, and
@@ -47,4 +47,4 @@ end
 7. To terminate the entire program, press X in the GUI window
 icon
 
-# 
+© 2022 Nicolas Louis, Multi Media Final Project
